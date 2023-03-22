@@ -1,0 +1,2 @@
+# brownNoise
+To run this code first download the raw data files from dropbox folder called [BrownData](https://www.dropbox.com/scl/fo/xs3qqvhtpzy2omqu2juyk/h?dl=0&rlkey=br868k95m5zrc8l9wgexvandw). Add this to the brownNoise repo folder. The BrownData folder is in the .gitignore so any files in this founder should not be tracked. Check before pushing to ensure the raw data is not pushed. We will change this before making the code public. 
