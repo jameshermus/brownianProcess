@@ -6,7 +6,7 @@ Tessari, F., Hermus, J., Sugimoto-Dimitrova, R., Neville Hogan. Brownian proces
 
 ## Code Organization and Data
 
-The experimental data file is quite large and not stored on GitHub. Download the Brown Data from [Zenodo]([10.5281/zenodo.17495997](https://doi.org/10.5281/zenodo.17495998)) and place it in the brownianProcess folder. Note, this data was previously hosted on at [dropbox](https://www.dropbox.com/sh/rvt2yht23tt31go/AAB2SaYBfIhM4qkVAni9Ixoha?dl=0).
+The experimental data file is quite large and not stored on GitHub. Download the Brown Data from [Zenodo](https://doi.org/10.5281/zenodo.17495998) and place it in the brownianProcess folder. Note, this data was previously hosted on at [dropbox](https://www.dropbox.com/sh/rvt2yht23tt31go/AAB2SaYBfIhM4qkVAni9Ixoha?dl=0).
 
 [main](https://github.com/jameshermus/brownianProcess/blob/main/main.m): This script generates the figures presented in the paper. 
 
