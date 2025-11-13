@@ -5,6 +5,12 @@ This repository contains the code used in the writing of the paper:
 Tessari, F., Hermus, J., Sugimoto-Dimitrova, R., Neville Hogan. Brownian processes in human motor control support descending neural velocity commands. *Sci Rep* **14**, 8341 (2024). [https://doi.org/10.1038/s41598-024-58380-5](https://doi.org/10.1038/s41598-024-58380-5)
 
 ## Code Organization and Data
-The experimental data file is quite large and not stored on GitHub. Download the [BrownData](https://www.dropbox.com/sh/rvt2yht23tt31go/AAB2SaYBfIhM4qkVAni9Ixoha?dl=0) folder from Dropbox and place it in the brownianProcess folder.
+
+The experimental data file is quite large and not stored on GitHub. Download the Brown Data from Zenodo [10.5281/zenodo.17495997](10.5281/zenodo.17495997) and place it in the brownianProcess folder. Note, this data was previously hosted on at [dropbox](https://www.dropbox.com/sh/rvt2yht23tt31go/AAB2SaYBfIhM4qkVAni9Ixoha?dl=0).
 
 [main](https://github.com/jameshermus/brownianProcess/blob/main/main.m): This script generates the figures presented in the paper. 
+
+
+## Dataset Citation
+
+Tessari, F., Hermus, J., Sugimoto Dimitrova, R., & Hogan, N. (2025). Brownian Processes in Human Motor Control Data [Data set]. In Brownian processes in human motor control support descending neural velocity commands (Vol. 14, Number 8341). Zenodo. [https://doi.org/10.5281/zenodo.17495998](https://doi.org/10.5281/zenodo.17495998)
